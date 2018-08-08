@@ -22,6 +22,15 @@
     
     <item>
       <title></title>
+      <link>https://skcloud.github.io/zcomposer/test/</link>
+      <pubDate>Mon, 09 Jul 2018 04:20:00 +0000</pubDate>
+      
+      <guid>https://skcloud.github.io/zcomposer/test/</guid>
+      <description>Test 입니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://skcloud.github.io/getting-start/set_up/</link>
       <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
       
@@ -36,15 +45,6 @@
       
       <guid>https://skcloud.github.io/use-case/use-case-example/</guid>
       <description> USER CASE TEST </description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://skcloud.github.io/zcomposer/test/</link>
-      <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
-      
-      <guid>https://skcloud.github.io/zcomposer/test/</guid>
-      <description>Test 입니다.</description>
     </item>
     
     <item>
