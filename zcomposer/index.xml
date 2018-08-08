@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Z</title>
-    <link>https://skcloud.github.io/z-composer/</link>
+    <link>https://skcloud.github.io/zcomposer/</link>
     <description>Recent content on Cloud Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jul 2018 04:20:00 +0000</lastBuildDate>
     
-	<atom:link href="https://skcloud.github.io/z-composer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://skcloud.github.io/zcomposer/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
