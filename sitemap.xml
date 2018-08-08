@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://skcloud.github.io/zcomposer/test/</loc>
-    <lastmod>2018-07-09T04:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://skcloud.github.io/getting-start/set_up/</loc>
     <lastmod>2018-07-05T04:20:00+00:00</lastmod>
   </url>
@@ -68,12 +63,6 @@
   
   <url>
     <loc>https://skcloud.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://skcloud.github.io/zcomposer/</loc>
-    <lastmod>2018-07-09T04:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
