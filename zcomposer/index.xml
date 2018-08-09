@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Z</title>
+    <link>https://skcloud.github.io/zcomposer/</link>
+    <description>Recent content on Cloud Z</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jul 2018 04:20:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://skcloud.github.io/zcomposer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://skcloud.github.io/zcomposer/test/</link>
+      <pubDate>Thu, 05 Jul 2018 04:20:00 +0000</pubDate>
+      
+      <guid>https://skcloud.github.io/zcomposer/test/</guid>
+      <description>Cloud Z Composer Cloud Z Composer는 IT 자동화의 확장, 복잡한 배치 관리 및 생산성 향상을 지원합니다. 앱 배포에서 다중 계층 조정에 이르기까지 제어, 보안 및 위임 기능을</description>
+    </item>
+    
+  </channel>
+</rss>
